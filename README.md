@@ -1,6 +1,6 @@
 # Point of Sales App
 
-This repo contains one of few pages that had been made using HTML, CSS, and Bootstrap.  
+move to pos-app2
 
 ## Link to view
 
